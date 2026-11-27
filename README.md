@@ -51,7 +51,7 @@ The line gives the investigation its motivating image: a search for this **Malak
 
 The search begins with the image and the questions it opens. Whether it points toward a distinct realm, an aspect of experience, or another interpretation remains to be explored.
 
-**Textual attribution:** Ganjoor includes this line in Homam Tabrizi's ghazal 142. This gives a checkable textual location; it does not by itself settle the verse's authorship or transmission history. [Persian text](https://ganjoor.net/homam/ghazalho/sh142/).
+**Attribution:** The fuller poem beginning «روزها فکر من این است و همه شب سخنم» is commonly attributed to Rumi (Jalal al-Din Muhammad Balkhi), but its attribution is disputed. The quoted Malakut line also appears in Homam Tabrizi's ghazal 142. The authorship of the fuller poem and the transmission of this individual verse are distinct questions; neither a reference to Shams Tabrizi within a version of the poem nor its popular attribution settles them. A critical edition must be checked before asserting its status within the *Divan-e Shams*, and the direction of any borrowing remains unestablished here. [Homam text](https://ganjoor.net/homam/ghazalho/sh142/) · [Discussion of the disputed Rumi attribution, by Latif Nazemi](https://maulana-haus.de/خاستگاه-شعراز-دیدگاه-مولانا/).
 
 ## The developing investigation
 
