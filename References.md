@@ -17,3 +17,10 @@
 - Trace earlier sources and distinguish similarity, influence, and historical priority. Neither Penrose nor Popper is designated the originator of the exact Physical World / Human Experience / Descriptions formulation.
 - Examine the scope and status of “Descriptions”: linguistic expressions, their contents, mathematical objects, and physical inscriptions may require different treatment.
 - Investigate the Persian verse's attribution and transmission using critical editions before assigning definitive authorship.
+
+## Further attribution evidence
+
+- **Latif Nazemi, “خاستگاه شعر از دیدگاه مولانا,” reproduced by Maulana Haus.** [Article](https://maulana-haus.de/خاستگاه-شعراز-دیدگاه-مولانا/). Secondary commentary inspected on 27 November 2026: discusses the poem's circulation under Rumi's name and objections to its attribution. Its reports concerning older textual witnesses still require direct checking; they are not treated here as proof of authorship or of borrowing in either direction.
+- **Shereheyat, “مرغ باغ ملکوت.”** [Poem supplied by Babak](https://www.shereheyat.ir/poetry/poems/مرغ-باغ-ملکوت). The accessible page reproduces a fuller version beginning «روزها فکر من این است و همه شب سخنم», but identifies no author or edition. It documents a circulating text, not an established attribution.
+
+Distinguish the provenance of the individual Malakut verse from that of the fuller poem. Popular attribution, an internal address to Shams, and textual inclusion in a particular edition are separate kinds of evidence. Establishing who borrowed from whom requires further research.
