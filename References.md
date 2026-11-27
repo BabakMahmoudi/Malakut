@@ -1,12 +1,12 @@
 # Working References
 
-*AI-generated research notes (model: GPT-6), prepared on 27 November 2026. These are initial comparisons and source checks, not a completed history of the three-realm idea. Awaiting Babak's review.*
+*AI-generated research notes (model: GPT-6), prepared on 27 November 2026. Updated on 27 November 2026 with sources used in the dialogue on frameworks and Descriptions. These are comparisons and source checks, not a completed history of the three-domain idea. Awaiting Babak's review.*
 
 ## Primary philosophical texts
 
-1. **Penrose, Roger. *The Road to Reality: A Complete Guide to the Laws of the Universe*. Jonathan Cape, 2004.** Chapter 1, especially §1.4, “Three worlds and three deep mysteries,” pp. 17–21 and figure 1.3. [Chapter PDF hosted by the University of São Paulo](https://astroweb.iag.usp.br/~amancio/mpa5003_notas/road-to-reality-roger-penrose.pdf). The relevant section was inspected. Compare the mathematical realm with the proposed realm of Descriptions; their equivalence is not assumed.
+1. **Penrose, Roger. *The Road to Reality: A Complete Guide to the Laws of the Universe*. Jonathan Cape, 2004.** Chapter 1, especially §1.4, “Three worlds and three deep mysteries,” pp. 17–21 and figure 1.3. [Chapter PDF hosted by the University of São Paulo](https://astroweb.iag.usp.br/~amancio/mpa5003_notas/road-to-reality-roger-penrose.pdf). The relevant section was inspected. Mathematical formulations are included in the working category of Descriptions; the status of mathematical objects and structures remains open. The category is not identified with Penrose’s Platonic mathematical world.
 
-2. **Popper, Karl R. “Three Worlds.” The Tanner Lecture on Human Values, delivered at the University of Michigan, 7 April 1978.** [Lecture text from the Tanner Lectures](https://tannerlectures.org/documents/three-worlds/). The text was inspected, especially sections I, X, XIV, and XVIII. Relevant to the distinction between subjective thinking and objective thought contents, and to the proposed relationships among the realms. Resemblance does not establish direct influence or historical priority.
+2. **Popper, Karl R. “Three Worlds.” The Tanner Lecture on Human Values, delivered at the University of Michigan, 7 April 1978.** [Lecture text from the Tanner Lectures](https://tannerlectures.org/documents/three-worlds/). The text was inspected, especially sections I, X, XIV, and XVIII. Relevant to the distinction between subjective thinking and objective thought contents, and to the proposed relationships among the realms. Babak has adopted “Descriptions” as a working name for objective thought contents with Popper’s broader cultural scope. This does not endorse Popper’s realism or settle every boundary case. See the [dialogue](Dialogs/2026-11-27-frameworks-and-descriptions.md). Historical priority remains open.
 
 ## Persian textual source
 
@@ -24,3 +24,11 @@
 - **Shereheyat, “مرغ باغ ملکوت.”** [Poem supplied by Babak](https://www.shereheyat.ir/poetry/poems/مرغ-باغ-ملکوت). The accessible page reproduces a fuller version beginning «روزها فکر من این است و همه شب سخنم», but identifies no author or edition. It documents a circulating text, not an established attribution.
 
 Distinguish the provenance of the individual Malakut verse from that of the fuller poem. Popular attribution, an internal address to Shams, and textual inclusion in a particular edition are separate kinds of evidence. Establishing who borrowed from whom requires further research.
+
+## Sources for frameworks and Descriptions
+
+- **Carnap, Rudolf. “Empiricism, Semantics, and Ontology.” *Revue Internationale de Philosophie* 4 (1950), pp. 20–40.** [Primary text](https://ditext.com/carnap/carnap.html), especially §2, “Linguistic frameworks.” Inspected for the distinction between internal existence questions and the practical adoption of a framework.
+- **Quine, W. V. “On What There Is.” *The Review of Metaphysics* 2, no. 5 (1948), pp. 21–38.** [Primary text](https://en.wikisource.org/wiki/On_What_There_Is). Inspected for the criterion of a theory's ontological commitments. Included as a comparison; Babak declines this route and refers to reasons stated elsewhere, which are not reconstructed here.
+- **Penrose, Roger, interviewed by Robert Lawrence Kuhn. Interview excerpts reproduced in “Roger Penrose Interview, Part 2,” Reasonable Faith, 16 May 2016.** [Transcript](https://www.reasonablefaith.org/media/reasonable-faith-podcast/roger-penrose-interview-part-2/). Penrose's remarks on mathematical objectivity were inspected. The page interleaves these excerpts with William Lane Craig's commentary; the latter is not attributed to Penrose.
+
+These sources support the [dialogue on frameworks and Descriptions](Dialogs/2026-11-27-frameworks-and-descriptions.md). Project terminology is provisional and does not by itself establish an ontology.
