@@ -42,6 +42,8 @@ Roger Penrose is the comparison that prompted this inquiry. In *The Road to Real
 
 Karl Popper supplies another close precedent. In his lecture *Three Worlds*, he distinguishes the physical world, subjective experience, and the products of the human mind, including languages and scientific theories. The present project adopts “Descriptions” as its working name for objective thought contents, with the broader scope that makes Popper's proposal more suitable here than an exclusively mathematical third world. This alignment leaves Popper's ontological arguments open to examination and does not settle historical priority. [Source: Popper, *Three Worlds*](https://tannerlectures.org/documents/three-worlds/).
 
+Greek philosophy supplies earlier comparisons for particular distinctions. Plato's discussion of Forms, artifacts, and images, Aristotle's account of things, mental affections, and linguistic expressions, and especially the Stoic distinction between an utterance, its sayable content (*lekton*), and its external object help sharpen the inquiry. None is identified with the project's three domains, and their ontologies are not adopted. The [memo on Greek precedents](Memos/2026-11-27-greek-precedents-for-descriptions.md) records the sources, relevance, and limits of these comparisons.
+
 The historical inquiry should establish what each author claimed and where the present proposal agrees or differs. Similar terminology alone does not establish identical views.
 
 ## Why “Malakut”?
