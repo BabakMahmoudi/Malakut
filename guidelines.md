@@ -1,6 +1,6 @@
 # Malakut: Guidelines for Philosophical Investigation
 
-*AI-generated methodological adaptation (model: GPT-6), prepared on 27 November 2026 from the Natural Laws project's README at Babak's request. The wording has not yet been reviewed or endorsed by Babak.*
+*AI-generated methodological adaptation (model: GPT-6), prepared on 27 November 2026 from the Natural Laws project's README at Babak's request and revised to reflect his direction for Malakut. The revised wording awaits his review.*
 
 ## Purpose and provenance
 
@@ -36,11 +36,11 @@ These are possible forms, not mandatory stages. A dialogue need not produce a me
 
 Read `README.md`, these guidelines, and the relevant existing artifacts before creating or revising project texts. The user's current directions may refine the method. Use the repository as the durable project record and link new writing to the material it develops.
 
-Do not infer a detailed research agenda from the name “Malakut.” Record the project's scope and questions as they are articulated. Likewise, do not silently transfer Babak's commitments from Natural Laws or another inquiry.
+The starting proposal distinguishes Physical World, Human Experience, and Descriptions. Investigate their status and relationships, especially emergence and the alleged governing role of natural laws. Treat these relationships as questions unless explicitly affirmed. Research credit and intellectual ancestry before attributing originality; compare Penrose and Popper without assuming that their proposals are identical to this one. The name comes from the Persian line recorded in the README and expresses a search for Malakut; do not infer additional doctrine from it. Do not silently transfer Babak's commitments from Natural Laws or another inquiry.
 
 ### Authorship and review status
 
-Every AI-generated artifact must begin, immediately after its title, with a visible AI authorship disclosure. Name the actual model when known; otherwise write **AI model not identified**. Identify known contributions from multiple models where practicable.
+The highest presentation priority is that readers immediately understand that project prose is AI-assisted or AI-generated. This applies to the README as well as every other AI-generated artifact. Place a prominent disclosure immediately after the title, before the substantive text. Name the actual model when known; otherwise write **AI model not identified**. Identify known contributions from multiple models where practicable.
 
 For example:
 
@@ -111,7 +111,7 @@ Maintain bibliographic details, links, and brief notes on relevance. Distinguish
 
 ## Repository and revision practice
 
-Keep `README.md` as the entry point for the project's purpose and navigation, and `guidelines.md` as its methodological instructions. Create the other files and directories as material warrants them; the paths above describe conventions, not files already present.
+Keep `README.md` focused on substantive project content: its motivating image, the three-realm proposal, central questions, and relevant intellectual context. Begin it with the prominent AI disclosure. Keep agent instructions and detailed working conventions in `guidelines.md`; the README may link here without reproducing those instructions. Create the other files and directories as material warrants them; the paths above describe conventions, not files already present.
 
 Use descriptive Markdown filenames, normally `YYYY-MM-DD-topic.md` for dated dialogues, memos, and essays. Use relative links within the repository. Preserve earlier stages of thought through the dialogue record and Git history.
 
